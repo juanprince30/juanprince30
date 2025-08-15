@@ -3,7 +3,7 @@
 Hello! I'm  **Juan Prince**.I'm passionate about technology and sofware development.  
 I love build creative solution.  
 My Skills : **Web development**, **mobile app development** and **cybersecurity**.  
-Currently, I am working on **Flutter**, **Laravel** and **Cloud** in my projects.  
+Currently, I am working on **Flutter**, **Laravel** and **Cloud Computing** projects.  
 
 
 ## 🌐 Socials:
