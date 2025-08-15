@@ -1,3 +1,10 @@
+## 👤 About me
+
+Hello! I'm  **Juan Prince**.I'm passionate about technology and sofware development.  
+I love build creative solution.  
+My Skills : **Web development**, **mobile app development** and **cybersecurity**.  
+Currently, I am working on **Flutter**, **Laravel** and **Cloud** in my projects.  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-prince-c-d-kouchanou-390428298/) 
