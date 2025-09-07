@@ -1,6 +1,6 @@
 ## 👤 About me
 
-Hello! I'm  **Juan Prince**. I'm a tech enthusiast and passionate about technology, sofware development and cybersecurity.  
+Hello! I'm  **Juan Prince**. I am a tech enthusiast and I am passionate about technology, sofware development and cybersecurity.  
 I love build creative solution.  
 My Skills : **Web development**, **mobile app development** and **cybersecurity**.  
 Currently, I am working on **Flutter**, **Laravel** and **Cloud Computing** projects.  
